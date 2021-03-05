@@ -2,7 +2,7 @@
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/skyridertk/jetpack-compose-timer/workflows/Check/badge.svg)
+![Workflow result](https://github.com/skyridertk/jetpack-compose-timer-app/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
@@ -12,6 +12,8 @@ Timer App built using Jetpack compose. It is a simple and easy app for android f
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+
+
 
 
 ## :camera_flash: Screenshots
