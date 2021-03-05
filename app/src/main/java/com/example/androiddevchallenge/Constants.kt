@@ -13,16 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.androiddevchallenge.ui.theme
+package com.example.androiddevchallenge
 
-import androidx.compose.ui.graphics.Color
-
-val backgroundColorLight = Color(0xFFf8f9fa)
-val startButtonColorLight = Color(0xFF6c757d)
-val stopButtonColorLight = Color(0xFF495057)
-val resetButtonColorLight = Color(0xFF343a40)
-
-val backgroundColorDark = Color(0xFF212529)
-val startButtonColorDark = Color(0xFFadb5bd)
-val stopButtonColorDark = Color(0xFF6c757d)
-val resetButtonColorDark = Color(0xFFced4da)
+const val COUNT_TIME = 65000L
